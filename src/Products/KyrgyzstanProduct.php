@@ -14,7 +14,7 @@ class KyrgyzstanProduct implements Product
         $this->formatHelper = new FormatHelper();
         $this->mfgProduct = $this->formatHelper->addTop();
         $this->mfgProduct.=<<<KYRGYZSTAN
-<img src='Countries/Kyrgyzstan.png' class='pixRight' width='600'
+<img src='https://cdn.pixabay.com/photo/2020/01/14/17/17/kyrgyzstan-4765706_960_720.jpg' class='pixRight' width='600'
 height='304'>
 <header>Kyrgyzstan</header>
 <p>A Central Asian country of incredible natural beauty and proud
