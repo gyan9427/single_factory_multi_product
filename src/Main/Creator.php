@@ -2,6 +2,8 @@
 
 namespace Src\Main;
 
+use Src\Interfaces\Product;
+
 abstract class Creator
 {
     protected abstract function factoryMethod(Product $product);
