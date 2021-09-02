@@ -3,6 +3,7 @@
 namespace Src\Factory;
 
 use Src\Main\Creator;
+use Src\Interfaces\Product;
 
 class CountryFactory extends Creator
 {
