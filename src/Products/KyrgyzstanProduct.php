@@ -3,6 +3,7 @@
 namespace Src\Products;
 
 use Src\Interfaces\Product;
+use Src\Resources\Helpers\FormatHelper;
 
 class KyrgyzstanProduct implements Product
 {
